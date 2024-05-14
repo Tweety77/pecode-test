@@ -1,6 +1,7 @@
 {
   "name": "pecode-test",
   "version": "0.1.0",
+  "homepage": "https://Tweety77.github.io/pecode-test",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -22,6 +23,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+   "predeploy": "npm run build",
+   "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -50,6 +53,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.4.3"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
