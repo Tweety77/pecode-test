@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pecode-test/static/css/main.12d0a69c.css",
+    "main.js": "/pecode-test/static/js/main.5d290749.js",
+    "static/media/episode-placeholder.jpg": "/pecode-test/static/media/episode-placeholder.c54465a6a440f71e38ff.jpg",
+    "static/media/location-placeholder.jpg": "/pecode-test/static/media/location-placeholder.be3285b39e7ade115a4c.jpg",
+    "index.html": "/pecode-test/index.html",
+    "main.12d0a69c.css.map": "/pecode-test/static/css/main.12d0a69c.css.map",
+    "main.5d290749.js.map": "/pecode-test/static/js/main.5d290749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12d0a69c.css",
+    "static/js/main.5d290749.js"
+  ]
+}
